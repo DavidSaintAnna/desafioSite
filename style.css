@@ -1,0 +1,147 @@
+header {
+    display: flex;
+    flex-direction: column;
+    width: 1350px;
+    background-color: #FFFFFF;
+    position: fixed;
+}
+
+.white {
+    display: flex;
+    flex-direction: row;
+}
+
+.head_text { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 237px;
+    height:161px;
+}
+
+#page {
+    color:#92CDB1;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    font-size: 13px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div_txt {
+    display: flex;
+    width: 400px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+.text_2 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #414141;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+
+.img1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lines{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -140px;
+    margin-top: 20px;
+}
+
+.random_txt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -50px;
+    padding: 90px;
+    margin-left: 20px;
+}
+
+.text_3 {
+    font-family: Georgia;
+    font-size: 26px;
+    text-align: center;
+    color:#414141;
+}
+.dogs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -50px;
+}
+.columns { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    width: 300px;
+    height: 500px;
+    border:1px solid  #92CDB1;
+    margin-top: 80px;
+}
+.direction {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.box_2 {
+    width: 1350px;
+    height: 150px;
+    background-color:  #92CDB1;
+    margin-top: 80px;
+}
+
+.text_4 {
+    font-family: Georgia;
+    font-size: 26px;
+    text-align: center;
+    color:#FFFFFF;
+}
+
+.clientes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.direction_2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.text_5 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #414141;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.direction_3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: -160px;
+}
+ 
